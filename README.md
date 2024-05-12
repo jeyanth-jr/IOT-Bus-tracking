@@ -40,8 +40,8 @@ Download and include the following libraries in your Arduino IDE:
 6. Monitor the serial output for debugging and status updates.
 
 ## Contributors
-- [Jeyanth]([link-to-your-profile](https://github.com/jeyanth-jr)
+- [Jeyanth](https://github.com/jeyanth-jr)
 
 ## License
-This project is licensed under the [MIT License]([link-to-license-file](https://github.com/jeyanth-jr/IOT-Bus-tracking?tab=MIT-1-ov-file#).
+This project is licensed under the [MIT License](https://github.com/jeyanth-jr/IOT-Bus-tracking?tab=MIT-1-ov-file#).
 
